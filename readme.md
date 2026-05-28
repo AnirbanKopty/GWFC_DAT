@@ -8,12 +8,11 @@ Lecturer:
 Tutors: 
 - Abhishek Sharma, IUCAA
 - Anirban Kopty, IUCAA
+- Sudhir Gholap, IUCAA
 
 
 # Usage
 
-<!-- Since this repo has a submodule, clone it using  
-`git clone --recurse-submodules https://github.com/AnirbanKopty/GWFC_DAT.git` -->
 Clone this repo and start using:  
 `git clone https://github.com/AnirbanKopty/GWFC_DAT.git`
 
