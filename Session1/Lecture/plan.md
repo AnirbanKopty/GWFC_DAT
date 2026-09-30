@@ -1,1 +1,0 @@
-# Lecture resources and planning
